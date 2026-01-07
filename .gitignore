@@ -1,0 +1,14 @@
+# Mac System Files (Junk)
+.DS_Store
+
+# Python Cache (Junk)
+__pycache__/
+*.pyc
+
+# Virtual Environments
+env/
+venv/
+.env
+
+# Optional: If you want to hide your raw data for privacy, uncomment the next line
+data/raw/
