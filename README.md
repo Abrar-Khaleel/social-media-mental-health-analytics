@@ -1,4 +1,4 @@
-# 🧠 Social Media & Mental Health Analytics: A Regression Analysis
+# 🧠 Analysing Social Media Usage: Assessing Mental Health Trends in Gen Y and Gen Z
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
